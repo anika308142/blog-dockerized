@@ -1,4 +1,5 @@
 const db = require('../models');
+db.sequelize.sync();
 const User = db.User;
 var generateToken = require('../utils/generateToken');
 let options = {};
