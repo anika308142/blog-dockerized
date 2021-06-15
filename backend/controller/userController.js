@@ -25,11 +25,13 @@ exports.createUser = async (req, res) => {
   if (created) {
     const token = await generateToken.generateAccessToken({ uid: req.body.uid });
     res.cookie('Authorization', token, [options]);
+    res.header('Authorization',token)
     res.status(201);
     res.json({ message: "Registration Successful!" });
   }
 
   else {
+    res.header('Authorization','null')
     res.cookie('Authorization', 'null', [options])
     res.status(409);
     res.json({ message: "User already exists please login!" });
@@ -51,6 +53,7 @@ exports.loginUser = async (req, res) => {
   });
   if (users == null) {
     res.cookie('Authorization', 'null', [options]);
+   res.header('Authorization','null')
     res.status(404);
     res.json({
       message: "User ID or Password is incorrect!"
@@ -59,6 +62,7 @@ exports.loginUser = async (req, res) => {
   else {
     const accessToken = await generateToken.generateAccessToken({ uid: req.body.uid });
     res.cookie('Authorization', accessToken, [options]);
+    res.header('Authorization',accessToken)
     res.status(200);
     res.json({
       message: "Log in successful!"
