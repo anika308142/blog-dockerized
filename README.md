@@ -57,10 +57,14 @@ GET http://localhost:3001/posts/:pid
 5. Create Story
 
 POST http://localhost:3001/posts
+
+
     {   
     "title":"Day Off",
     "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
     }
+
+    
 headers : token in received after sign up/sign in.
 
     {
@@ -70,11 +74,13 @@ headers : token in received after sign up/sign in.
 6. Update Story
 PUT http://localhost:3001/posts/:pid
 
+
     {   
     "title":"new Day Off",
     "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
     }
-    
+
+
 
 headers : token in received after sign up/sign in.
 
