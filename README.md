@@ -62,21 +62,27 @@ POST http://localhost:3001/posts
     "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
     }
 headers : token in received after sign up/sign in.
+
     {
     "Authorization":"Token" 
     }
-6. Update Story
 
+6. Update Story
 PUT http://localhost:3001/posts/:pid
+
     {   
     "title":"new Day Off",
     "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
     }
+    
+
 headers : token in received after sign up/sign in.
+
     {
     "Authorization":"Token" 
     }
 
+    
 5. Delete Story
 
 DELETE http://localhost:3001/posts/:pid
