@@ -7,7 +7,7 @@ import Typography from '@material-ui/core/Typography';
 import AppBar from '@material-ui/core/AppBar'
 import Button from '@material-ui/core/Button'
 import Grid from '@material-ui/core/Grid'
-import ToolBar from '@material-ui/core/ToolBar'
+import Toolbar from '@material-ui/core/Toolbar'
 const theme=createMuiTheme({
   typography:{
     h2:{
@@ -44,7 +44,7 @@ function App() {
       <ThemeProvider theme={theme}>
 
       <AppBar position="flex" color='primary'>
-      <ToolBar>
+      <Toolbar>
         <Grid container spacing={2}>
           
           <Grid item xs={0}> 
@@ -70,7 +70,7 @@ function App() {
           {loggedIn===true&&<Button  id='signout' href="/Logout">Sign out</Button>}
           </Grid>
         </Grid>
-      </ToolBar>
+      </Toolbar>
     </AppBar>
     </ThemeProvider>
     </div>
