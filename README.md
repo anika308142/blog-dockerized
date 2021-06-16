@@ -1,7 +1,7 @@
 # Story tellers
 Here you can write your own blog, edit/ delete your blog . You can also read everyone's blog.
 
-#HOW TO RUN
+# HOW TO RUN
     Clone this repository
     Run npm install
 
