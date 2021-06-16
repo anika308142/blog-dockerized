@@ -17,11 +17,11 @@ Run Using NPM
 
 
 # Technologies Used
-   Backend : Express js
-   Database : MySql
-   ORM : Sequelize
-   Frontend : React
-   Design : html, CSS, Material UI
+  Backend : Express js
+  Database : MySql
+  ORM : Sequelize
+  Frontend : React
+  Design : html, CSS, Material UI
     
 
 # API Documentation
@@ -30,19 +30,19 @@ Send requests body in Raw JSON format
 
 POST http://localhost:3001/users
 
-   {
-   "uid":"azrin.nahar308@gkjnnhbjb",
-   "password":"1234"
-   }
+    {
+    "uid":"azrin.nahar308@gkjnnhbjb",
+    "password":"1234"
+    }
 
 2. Login 
 
 POST http://localhost:5000/api/login
 
-   {
-   "uid":"azrin.nahar308@gkjnnhbjb",
-   "password":"1234"
-   }
+    {
+    "uid":"azrin.nahar308@gkjnnhbjb",
+    "password":"1234"
+    }
 
 Cookies and headers for authorization will be sent with response.
 
@@ -57,25 +57,25 @@ GET http://localhost:3001/posts/:pid
 5. Create Story
 
 POST http://localhost:3001/posts
-   {   
-   "title":"Day Off",
-   "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
-   }
+    {   
+    "title":"Day Off",
+    "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
+    }
 headers : token in received after sign up/sign in.
-   {
-   "Authorization":"Token" 
-   }
+    {
+    "Authorization":"Token" 
+    }
 6. Update Story
 
 PUT http://localhost:3001/posts/:pid
-   {   
-   "title":"new Day Off",
-   "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
-   }
+    {   
+    "title":"new Day Off",
+    "story":"I can imagine Moira’s reply: You’re not on track with your calcium and folic acid targets today..."
+    }
 headers : token in received after sign up/sign in.
-   {
-   "Authorization":"Token" 
-   }
+    {
+    "Authorization":"Token" 
+    }
 
 5. Delete Story
 
