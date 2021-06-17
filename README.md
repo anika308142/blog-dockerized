@@ -101,24 +101,29 @@ DELETE http://localhost:3001/posts/:pid
 
 2. Log in
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signin.PNG?raw=true)
+
+![signin](https://user-images.githubusercontent.com/42313074/122336435-af4f0900-cf5e-11eb-9e20-386a1dc4ccaa.PNG)
 
 3. Read all stories
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyall.PNG?raw=true)
+![storyall](https://user-images.githubusercontent.com/42313074/122336496-c7bf2380-cf5e-11eb-8a54-6a6422bb9aac.PNG)
+
 
 4. Read one story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyone.PNG?raw=true)
+![storyone](https://user-images.githubusercontent.com/42313074/122336566-e1f90180-cf5e-11eb-86ca-ce8c8ff6b433.PNG)
+
 
 5. Reading own story gives options to edit/delete
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyauth.PNG?raw=true)
+![storyauth](https://user-images.githubusercontent.com/42313074/122336610-efae8700-cf5e-11eb-83fb-7a9ced7e8818.PNG)
+
 
 6. Edit your story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyedit.PNG?raw=true)
+![storyedit](https://user-images.githubusercontent.com/42313074/122336661-02c15700-cf5f-11eb-9122-5e126198528e.PNG)
+
 
 7. Delete your story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storydelete.PNG?raw=true)
+![storydelete](https://user-images.githubusercontent.com/42313074/122336713-166cbd80-cf5f-11eb-8da2-991ee86a7698.PNG)
