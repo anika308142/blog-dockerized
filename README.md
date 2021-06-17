@@ -5,17 +5,17 @@ Here you can write your own blog, edit/ delete your blog . You can also read eve
     Clone this repository
     Run npm install
 
-Run Using Docker
-    In terminal of root directory
-    Run 'docker-compose up --build'
-OR
-    Go to backend directory and write 'docker build .' in terminal
-    Go to frontend directory and write 'docker build .' in terminal
+  Run Using Docker
+     In terminal of root directory
+     Run 'docker-compose up --build'
+  OR
+     Go to backend directory and write 'docker build .' in terminal
+     Go to frontend directory and write 'docker build .' in terminal
 
-Run Using NPM
+  Run Using NPM
 
-    Go to backend directory and write 'npm start' in terminal
-    Go to frontend directory and write 'npm start' in terminal
+     Go to backend directory and write 'npm start' in terminal
+     Go to frontend directory and write 'npm start' in terminal
 
 
 
