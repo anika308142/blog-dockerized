@@ -19,7 +19,7 @@ services:
     container_name: backend
     build: ./backend
     ports:
-      - 3000:3000
+      - 3001:4000
     depends_on:
       - mysql_anika
     environment: 
@@ -27,3 +27,11 @@ services:
       - PASSWORD=anika
       - HOST=mysql_anika
       - DATABASE=db_post
+
+  frontend:
+    container_name: frontend
+    build: ./frontend
+    ports:
+      - 3000:3000
+    depends_on:
+      - backend
