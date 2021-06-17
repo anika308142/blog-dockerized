@@ -9,7 +9,7 @@ Here you can write your own blog, edit/ delete your blog . You can also read eve
 
      In terminal of root directory
      Run 'docker-compose up --build'
-     
+
   OR
 
      Go to backend directory and write 'docker build .' in terminal
@@ -23,6 +23,7 @@ Here you can write your own blog, edit/ delete your blog . You can also read eve
 
 
 # Technologies Used
+
    Backend : Express js
    Database : MySql
    ORM : Sequelize
