@@ -63,6 +63,7 @@ export default function CreateStory() {
     };
     const handleSubmit = async (e) => {
         e.preventDefault();
+       
         const cookies = new Cookies();
         var token = cookies.get('Authorization');
         console.log(token)

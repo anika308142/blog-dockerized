@@ -119,7 +119,6 @@ export default function Register() {
                 label="Username"
                 value={values.uid}
                 onChange={handleChange('uid')}
-                autoComplete="username"
                 autoFocus
               />
               <TextField
@@ -131,7 +130,6 @@ export default function Register() {
                 label="Password"
                 type="password"
                 id="password"
-                autoComplete="current-password"
                 onChange={handleChange('password')}
                 value={values.password}
 
@@ -149,10 +147,6 @@ export default function Register() {
                 value={values.c_password}
               />
               <h2>{warning || ''}</h2>
-              <FormControlLabel
-                control={<Checkbox value="remember" color="primary" />}
-                label="Remember me"
-              />
               <Button
                 type="submit"
                 fullWidth

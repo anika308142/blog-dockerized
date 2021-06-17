@@ -62,7 +62,7 @@ export default function Login() {
     message: '',
     loggedIn: false
   });
-  const [warning, setWarning] = useState(null);
+ 
   const handleChange = name => e => {
     setValues({ ...values, [name]: e.target.value });
   };
@@ -114,7 +114,7 @@ export default function Login() {
                 id="username"
                 label="Username"
                 name="username"
-
+                autoComplete="username"
                 autoFocus
                 value={values.uid}
                 onChange={handleChange('uid')}
@@ -130,10 +130,8 @@ export default function Login() {
                 id="password"
                 value={values.password}
                 onChange={handleChange('password')}
-              />
-              <FormControlLabel
-                control={<Checkbox value="remember" color="primary" />}
-                label="Remember me"
+                autoComplete="current-password"
+                autoFocus
               />
               <Button
                 type="submit"

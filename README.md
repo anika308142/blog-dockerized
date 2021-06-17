@@ -17,11 +17,11 @@ Run Using NPM
 
 
 # Technologies Used
-  Backend : Express js
-  Database : MySql
-  ORM : Sequelize
-  Frontend : React
-  Design : html, CSS, Material UI
+   Backend : Express js
+   Database : MySql
+   ORM : Sequelize
+   Frontend : React
+   Design : html, CSS, Material UI
     
 
 # API Documentation
@@ -93,3 +93,25 @@ headers : token in received after sign up/sign in.
 
 DELETE http://localhost:3001/posts/:pid
 
+# FRONTEND
+
+1. Register
+![signup](screenshots/signup.png)
+
+2. Log in
+![signin](screenshots/signin.png)
+
+3. Read all stories
+![storyall](screenshots/storyall.png)
+
+4. Read one story
+![storyone](screenshots/storyone.png)
+
+5. Reading own story gives options to edit/delete
+![storyauth](screenshots/storyauth.png)
+
+6. Edit your story
+![storyedit](screenshots/storyedit.png)
+
+7. Delete your story
+![storydelete](screenshots/storydelete.png)
