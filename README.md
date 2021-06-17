@@ -97,28 +97,28 @@ DELETE http://localhost:3001/posts/:pid
 
 1. Register
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signup.PNG)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signup.PNG?raw=true)
 
 2. Log in
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signin.PNG)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signin.PNG?raw=true)
 
 3. Read all stories
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyall.PNG)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyall.PNG?raw=true)
 
 4. Read one story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyone.PNG)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyone.PNG?raw=true)
 
 5. Reading own story gives options to edit/delete
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyauth.PNG)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyauth.PNG?raw=true)
 
 6. Edit your story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyedit.PNG)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyedit.PNG?raw=true)
 
 7. Delete your story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storydelete.PNG)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storydelete.PNG?raw=true)
