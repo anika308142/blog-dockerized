@@ -97,28 +97,28 @@ DELETE http://localhost:3001/posts/:pid
 
 1. Register
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signup.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signup.PNG)
 
 2. Log in
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signin.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signin.PNG)
 
 3. Read all stories
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyall.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyall.PNG)
 
 4. Read one story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyone.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyone.PNG)
 
 5. Reading own story gives options to edit/delete
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyauth.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyauth.PNG)
 
 6. Edit your story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyedit.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyedit.PNG)
 
 7. Delete your story
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storydelete.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storydelete.PNG)
