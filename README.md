@@ -96,22 +96,29 @@ DELETE http://localhost:3001/posts/:pid
 # FRONTEND
 
 1. Register
-![signup](screenshots/signup.png)
+
+![Screenshot](screenshots/signup.png)
 
 2. Log in
-![signin](screenshots/signin.png)
+
+![Screenshot](screenshots/signin.png)
 
 3. Read all stories
-![storyall](screenshots/storyall.png)
+
+![Screenshot](screenshots/storyall.png)
 
 4. Read one story
-![storyone](screenshots/storyone.png)
+
+![Screenshot](screenshots/storyone.png)
 
 5. Reading own story gives options to edit/delete
-![storyauth](screenshots/storyauth.png)
+
+![Screenshot](screenshots/storyauth.png)
 
 6. Edit your story
-![storyedit](screenshots/storyedit.png)
+
+![Screenshot](screenshots/storyedit.png)
 
 7. Delete your story
-![storydelete](screenshots/storydelete.png)
+
+![Screenshot](screenshots/storydelete.png)
