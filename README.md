@@ -23,12 +23,11 @@ Here you can write your own blog, edit/ delete your blog . You can also read eve
 
 
 # Technologies Used
-
-   Backend : Express js
-   Database : MySql
-   ORM : Sequelize
-   Frontend : React
-   Design : html, CSS, Material UI
+Backend : Express js
+Database : MySql
+ORM : Sequelize
+Frontend : React
+Design : html, CSS, Material UI
     
 
 # API Documentation
