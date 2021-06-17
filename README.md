@@ -97,28 +97,28 @@ DELETE http://localhost:3001/posts/:pid
 
 1. Register
 
-![Screenshot](screenshots/signup.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signup.png)
 
 2. Log in
 
-![Screenshot](screenshots/signin.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signin.png)
 
 3. Read all stories
 
-![Screenshot](screenshots/storyall.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyall.png)
 
 4. Read one story
 
-![Screenshot](screenshots/storyone.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyone.png)
 
 5. Reading own story gives options to edit/delete
 
-![Screenshot](screenshots/storyauth.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyauth.png)
 
 6. Edit your story
 
-![Screenshot](screenshots/storyedit.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storyedit.png)
 
 7. Delete your story
 
-![Screenshot](screenshots/storydelete.png)
+![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/storydelete.png)
