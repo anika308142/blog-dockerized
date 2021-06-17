@@ -97,7 +97,7 @@ DELETE http://localhost:3001/posts/:pid
 
 1. Register
 
-![alt text](https://github.com/anika308142/blog-dockerized/tree/75df1e544aa5ebf867b1cc8159c6a82918935aea/screenshots/signup.PNG?raw=true)
+![signup](https://user-images.githubusercontent.com/42313074/122336259-5da67e80-cf5e-11eb-817f-a84fb73a86f7.PNG)
 
 2. Log in
 
